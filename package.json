@@ -16,8 +16,7 @@
   "dependencies": {
     "gatsby": "^2.26.1",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0",
-    "react-pdf": "git+https://github.com/ivmarcos/react-to-pdf.git#master"
+    "react-dom": "^16.12.0"
   },
   "devDependencies": {
     "prettier": "2.1.2"
